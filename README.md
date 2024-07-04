@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analysis to create Video game highlights<br>
+Highly motivated and results-oriented Data Annotation Team Lead with 3+ years of experience in a fast-paced startup environment. Proven ability to build and lead high-performing teams responsible for collecting, cleaning, and transforming multimedia data (Video, Image, Audio & Text) for training AI (deep learning) models.<br>
 
 
 ## 🌐 Socials:
