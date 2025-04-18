@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst with 3.5+ years in fast-paced startups, building and leading teams to transform data from (Video, Image, Audio & Text) for AI/deep learning models and drive business decisions.<br>
+Data Analyst with 4 years in fast-paced startups, building and leading teams to transform data from (Video, Image, Audio & Text) for AI/deep learning models and drive business decisions.<br>
 
 
 ## 🌐 Socials:
