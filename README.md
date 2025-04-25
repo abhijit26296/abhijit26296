@@ -1,5 +1,8 @@
 # 💫 About Me:
-Data Analyst with 4 years in fast-paced startups, building and leading teams to transform data from (Video, Image, Audio & Text) for AI/deep learning models and drive business decisions.<br>
+Results-driven Data Analyst with 4 YOE in data extraction, cleaning, visualization, and actionable insights
+generation. Proficient in Python, SQL, Power BI, Excel, and Statistical Analysis with a strong track record of
+improving business processes, automating reports, features recommendation and enhancing decision-making.
+Adept at managing data, building dashboards and performing trend analysis to drive business growth.<br>
 
 
 ## 🌐 Socials:
